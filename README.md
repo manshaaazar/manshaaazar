@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manshaaazar
 - 👀 I’m interested in development of softwares
-- 🌱 I’m currently learning wasmedge
-- 💞️ I’m looking to collaborate on Web/AI
+- 🌱 I’m currently learning FastAPI
+- 💞️ I’m looking to collaborate on web/web3.0
 - 📫 Email me on manshaehsan000@gmail.com
 
 <!---
