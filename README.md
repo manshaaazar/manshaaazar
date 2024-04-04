@@ -20,7 +20,6 @@ As a Software Engineer, I leverage my diverse skill set to design and develop so
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap" height="48"></a>
 <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="reactjs" height="48"></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs" height="48"></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-PHP-programming-and-development-those-icons-flat-those-icons.png" alt="php" height="48"></a>
 <a href="https://www.algolia.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-algolia-a-american-startup-company-offering-a-web-search-product-through-a-saas-model-logo-shadow-tal-revivo.png" alt="algolia" height="48"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="react native" height="48"></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png" alt="nodejs" height="48"></a>
