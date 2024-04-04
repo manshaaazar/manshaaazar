@@ -11,20 +11,20 @@ As a Software Engineer, I leverage my diverse skill set to design and develop so
 ## Technologies and Tools I'm Proficient In
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" height="48"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png" alt="typescript" height="48"></a>
-<a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank"><img src="https://img.icons8.com/color/48/redux.png" alt="redux" height="48"></a>
-<a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" height="48"></a>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png" alt="nodejs" height="48"></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs" height="48"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/express-js.png" alt="expressjs" height="48"></a>
 <a href="https://html.com/html5/" target="_blank"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5" height="48"></a>
 <a href="https://web.dev/learn/css" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" alt="css 3" height="48"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind css" height="48"></a>
-<a href="https://mui.com/material-ui/" target="_blank"><img src="https://img.icons8.com/color/48/material-ui.png" alt="material ui" height="48"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap" height="48"></a>
 <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="reactjs" height="48"></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs" height="48"></a>
+<a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" height="48"></a>
+<a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank"><img src="https://img.icons8.com/color/48/redux.png" alt="redux" height="48"></a>
+<a href="https://mui.com/material-ui/" target="_blank"><img src="https://img.icons8.com/color/48/material-ui.png" alt="material ui" height="48"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap" height="48"></a>
 <a href="https://www.algolia.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-algolia-a-american-startup-company-offering-a-web-search-product-through-a-saas-model-logo-shadow-tal-revivo.png" alt="algolia" height="48"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="react native" height="48"></a>
-<a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png" alt="nodejs" height="48"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/express-js.png" alt="expressjs" height="48"></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs" height="48"></a>
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/nginx.png" alt="nginx" height="48"></a>
 <a href="https://webrtc.org/" target="_blank"><img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" height="48"></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/google-firebase-console.png" alt="firebase" height="48"></a>
