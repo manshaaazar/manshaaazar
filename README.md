@@ -5,10 +5,10 @@ A seasoned Software Engineer with a passion for crafting innovative solutions th
 
 As a Software Engineer, I leverage my diverse skill set to design and develop software solutions that drive business success and empower users.
 
-## Checkout my portfolio
+## Explore My Portfolio
 <a href="https://docs.google.com/document/d/e/2PACX-1vR2mlqZWFOWkaiMVzZrSjeDrC7ixMaZPzKJpQRA7N4oelps8eiIV7Yjjz6_DpknTQY33Qh1mwcStIRj/pub" target="_blank"><img src="https://img.icons8.com/fluency/48/resume-website.png" alt="portfolio" height="48"></a>
 
-## Technologies an tool I am familiar with
+## Technologies and Tools I'm Proficient In
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" height="48"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png" alt="typescript" height="48"></a>
 <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank"><img src="https://img.icons8.com/color/48/redux.png" alt="redux" height="48"></a>
@@ -44,7 +44,7 @@ As a Software Engineer, I leverage my diverse skill set to design and develop so
 <a href="https://stripe.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-stripe-to-make-and-receive-payments-over-the-internet-logo-color-tal-revivo.png" alt="stripe" height="48"></a>
 <a href="https://www.paypal.com/" target="_blank"><img src="https://img.icons8.com/color/48/paypal.png" alt="paypal" height="48"></a>
 
-## Contact me
+## Let's Connect
 <a href="https://www.linkedin.com/in/muhammad-mansha/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="48"></a>
 <a href="mailto:hello@devonmars@protonmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="40"></a>
 
