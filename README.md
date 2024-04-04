@@ -46,7 +46,7 @@ As a Software Engineer, I leverage my diverse skill set to design and develop so
 
 ## Let's Connect
 <a href="https://www.linkedin.com/in/muhammad-mansha/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="48"></a>
-<a href="mailto:hello@devonmars@protonmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="35"></a>
+<a href="mailto:devonmars@protonmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="35"></a>
 
 <!-- <a href="https://www.upwork.com/freelancers/~01f69bb0d685de8d79?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01f69bb0d685de8d79%2Fprofile" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="upwork" height="48"></a> -->
 
