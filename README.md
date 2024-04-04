@@ -37,7 +37,6 @@ As a Software Engineer, I leverage my diverse skill set to design and develop so
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/google-cloud.png" alt="google cloud" height="48"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png" alt="git" height="48"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" height="48"></a>
-<a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" height="48"></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/linux--v1.png" alt="linux" height="48"></a>
 <a href="https://analytics.google.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-google-analytics-lets-you-measure-your-advertising-roi-logo-color-tal-revivo.png" alt="google analytics" height="48"></a>
 <a href="https://www.vonage.com/" target="_blank"><img src="https://play-lh.googleusercontent.com/C1DOp1IaAgeZDKAGREoEmoC-BL0CciELfimz4zMWu4bOKGJpP1fk7GgRTtoKf2LaoQ=w240-h480-rw" alt="vonage" height="48"></a>
@@ -46,8 +45,10 @@ As a Software Engineer, I leverage my diverse skill set to design and develop so
 <a href="https://www.paypal.com/" target="_blank"><img src="https://img.icons8.com/color/48/paypal.png" alt="paypal" height="48"></a>
 
 ## Contact me
-<a href="https://www.linkedin.com/in/MUHAMMAD-MANSHA/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="48"></a>
+<a href="https://www.linkedin.com/in/muhammad-mansha/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" height="48"></a>
+
 <!-- <a href="https://www.upwork.com/freelancers/~01f69bb0d685de8d79?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01f69bb0d685de8d79%2Fprofile" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="upwork" height="48"></a> -->
+
 <a href="mailto:hello@devonmars@protonmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="40"></a>
 
 <!---
