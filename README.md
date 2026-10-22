@@ -1,56 +1,99 @@
+<h1 align="center">Hi, I'm Muhammad Mansha Aazar</h1>
 
-# Welcome! I am Muhammad Mansha Aazar
+<p align="center">
+  <b>GenAI Engineer</b> · LLM applications · RAG & AI agents · full-stack TypeScript
+</p>
 
-A seasoned Software Engineer with a passion for crafting innovative solutions that exceed industry standards. With expertise spanning web development, and cloud computing, I tackle challenges head-on to deliver transformative results.
+<p align="center">
+  <a href="mailto:manshaehsan000@gmail.com"><img src="https://img.shields.io/badge/Email-manshaehsan000%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vR2mlqZWFOWkaiMVzZrSjeDrC7ixMaZPzKJpQRA7N4oelps8eiIV7Yjjz6_DpknTQY33Qh1mwcStIRj/pub"><img src="https://img.shields.io/badge/Portfolio-View%20r%C3%A9sum%C3%A9-0A66C2?style=flat&logo=googledocs&logoColor=white" alt="Portfolio"></a>
+</p>
 
-As a Software Engineer, I leverage my diverse skill set to design and develop software solutions that drive business success and empower users.
+---
 
-## Explore My Portfolio
-<a href="https://docs.google.com/document/d/e/2PACX-1vR2mlqZWFOWkaiMVzZrSjeDrC7ixMaZPzKJpQRA7N4oelps8eiIV7Yjjz6_DpknTQY33Qh1mwcStIRj/pub" target="_blank"><img src="https://img.icons8.com/fluency/48/resume-website.png" alt="portfolio" height="48"></a>
+## About me
 
-## Technologies and Tools I'm Proficient In
-<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" height="48"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png" alt="typescript" height="48"></a>
-<a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png" alt="nodejs" height="48"></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs" height="48"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/express-js.png" alt="expressjs" height="48"></a>
-<a href="https://html.com/html5/" target="_blank"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="html 5" height="48"></a>
-<a href="https://web.dev/learn/css" target="_blank"><img src="https://img.icons8.com/color/48/css3.png" alt="css 3" height="48"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind css" height="48"></a>
-<a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="reactjs" height="48"></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs" height="48"></a>
-<a href="https://storybook.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" height="48"></a>
-<a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank"><img src="https://img.icons8.com/color/48/redux.png" alt="redux" height="48"></a>
-<a href="https://mui.com/material-ui/" target="_blank"><img src="https://img.icons8.com/color/48/material-ui.png" alt="material ui" height="48"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap" height="48"></a>
-<a href="https://www.algolia.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-algolia-a-american-startup-company-offering-a-web-search-product-through-a-saas-model-logo-shadow-tal-revivo.png" alt="algolia" height="48"></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png" alt="react native" height="48"></a>
-<a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/nginx.png" alt="nginx" height="48"></a>
-<a href="https://webrtc.org/" target="_blank"><img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" height="48"></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/google-firebase-console.png" alt="firebase" height="48"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/mysql-logo.png" alt="msysql" height="48"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="mongodb" height="48"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/cloud-firestore.png" alt="firestore" height="48"></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/docker.png" alt="docker" height="48"></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes" height="48"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon web service" height="48"></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/google-cloud.png" alt="google cloud" height="48"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png" alt="git" height="48"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" height="48"></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/linux--v1.png" alt="linux" height="48"></a>
-<a href="https://analytics.google.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-google-analytics-lets-you-measure-your-advertising-roi-logo-color-tal-revivo.png" alt="google analytics" height="48"></a>
-<a href="https://www.vonage.com/" target="_blank"><img src="https://play-lh.googleusercontent.com/C1DOp1IaAgeZDKAGREoEmoC-BL0CciELfimz4zMWu4bOKGJpP1fk7GgRTtoKf2LaoQ=w240-h480-rw" alt="vonage" height="48"></a>
-<a href="https://www.twilio.com/en-us" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-color-tal-revivo.png" alt="twilio" height="48"></a>
-<a href="https://stripe.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-stripe-to-make-and-receive-payments-over-the-internet-logo-color-tal-revivo.png" alt="stripe" height="48"></a>
-<a href="https://www.paypal.com/" target="_blank"><img src="https://img.icons8.com/color/48/paypal.png" alt="paypal" height="48"></a>
+I build generative AI products and take them from prototype to production. My focus is the engineering around the model: retrieval pipelines that return the right context, agents that call tools reliably, evaluations that catch regressions before users do, and the web and mobile apps that put it all in front of people.
 
-## Let's Connect
-<a href="manshaehsan000@gmail.com" target="_blank">manshaehsan000@gmail.com</a>
+Before AI became the core of my work, I spent years shipping full-stack and cloud software. That background is why my AI features come with streaming UIs, proper auth, observability and infrastructure that scales.
 
-<!-- <a href="https://www.upwork.com/freelancers/~01f69bb0d685de8d79?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01f69bb0d685de8d79%2Fprofile" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="upwork" height="48"></a> -->
+## What I build with GenAI
 
+- **LLM-powered applications**: chat assistants, copilots, summarization and content generation, with streaming responses in Next.js and React Native.
+- **Retrieval-augmented generation (RAG)**: document ingestion, chunking, embeddings, hybrid search and re-ranking over vector databases, with answers grounded in citations.
+- **AI agents & tool calling**: multi-step agents that use APIs, databases and internal tools through function calling and the Model Context Protocol (MCP).
+- **Structured output & automation**: turning unstructured text, PDFs and emails into validated JSON that flows into existing business workflows.
+- **Evaluation & guardrails**: eval suites, prompt versioning, tracing, and guardrails for cost, latency, hallucinations and safety.
+- **Production LLMOps**: model routing, caching, rate limiting, token budgets and monitoring across hosted and open-source models.
+
+## GenAI stack
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" alt="LlamaIndex">
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK">
+  <img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" alt="Model Context Protocol">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone">
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector">
+  <img src="https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge" alt="Chroma">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia">
+</p>
+
+## Engineering foundation
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css&perline=12" alt="Python, TypeScript, JavaScript, HTML, CSS">
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mysql,mongodb,firebase&perline=12" alt="Node.js, NestJS, Express, FastAPI, PostgreSQL, MySQL, MongoDB, Firebase">
+</p>
+
+**Web & mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,materialui,bootstrap&perline=12" alt="Next.js, React, Redux, Tailwind CSS, Material UI, Bootstrap">
+  <br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" alt="WebRTC">
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git&perline=12" alt="AWS, Google Cloud, Docker, Kubernetes, Nginx, Linux, Git">
+</p>
+
+**Integrations**
+
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/PayPal-003087?style=flat&logo=paypal&logoColor=white" alt="PayPal">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" alt="Twilio">
+  <img src="https://img.shields.io/badge/Vonage-000000?style=flat&logo=vonage&logoColor=white" alt="Vonage">
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white" alt="Google Analytics">
+</p>
+
+## Let's connect
+
+I'm open to GenAI engineering roles, consulting and collaborations. If you're adding AI to a product, or trying to get an AI prototype ready for production, email me at [manshaehsan000@gmail.com](mailto:manshaehsan000@gmail.com).
 
 <!---
 manshaaazar/manshaaazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
