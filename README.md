@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:manshaehsan000@gmail.com"><img src="https://img.shields.io/badge/Email-manshaehsan000%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://drive.google.com/file/d/1-hsTRecBEMtXdyQB1yubNYUGP3ceSQG5/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View%20r%C3%A9sum%C3%A9-0A66C2?style=flat&logo=googledrive&logoColor=white" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/1-hsTRecBEMtXdyQB1yubNYUGP3ceSQG5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20r%C3%A9sum%C3%A9-0A66C2?style=flat&logo=googledrive&logoColor=white" alt="Resume"></a>
 </p>
 
 ---
